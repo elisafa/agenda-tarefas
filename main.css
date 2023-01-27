@@ -33,4 +33,5 @@ ul li{
 
 .riscado{
   text-decoration: line-through;  
+  color: red;
 }
